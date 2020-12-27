@@ -5,7 +5,8 @@ This is a npm package that allows you to convert an HTML Form to JSON and back
 
 e.g.
 
-```<form id="testForm">
+```HTML
+<form id="testForm">
 
   <input type="text" id="name" name="name" placeholder="What is your name?">
 
@@ -17,7 +18,8 @@ Suppose there is a form like above in the HTML of any page.
 
 When formToJson("testForm") is called it should return something like this
 
-```{
+```json
+{
 "formId": "testForm",
 "elements": [{
     "elementType": "input",
