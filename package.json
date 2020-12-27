@@ -1,0 +1,18 @@
+{
+  "name": "forms-dynamically",
+  "version": "1.0.0",
+  "description": "Converts html forms into JSON and back.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Forms",
+    "JSON",
+    "HTML",
+    "Convert",
+    "Generate"
+  ],
+  "author": "Muskan Vaswan",
+  "license": "MIT"
+}
