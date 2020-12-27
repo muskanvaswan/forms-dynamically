@@ -1,5 +1,5 @@
 /*
-Here we will try to convert a structure of a HTML form to JSON and then generate that form
+Here we will convert a structure of a HTML form to JSON and then generate that form
 back from the JSON.
 */
 
