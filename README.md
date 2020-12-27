@@ -12,7 +12,8 @@ e.g.
 
   <input type="number" id="age" name="age" class="agefield">
 
-</form>```
+</form>
+```
 
 Suppose there is a form like above in the HTML of any page.
 
@@ -37,7 +38,8 @@ When formToJson("testForm") is called it should return something like this
 
   }
 ]
-}```
+}
+```
 
 Note : This is just a suggestive JSON. You can define your own structure.
 The idea is to be able to store a structure of the form in JSON format.
