@@ -6,7 +6,7 @@ npm i forms-dynamically
 ```
 OR
 ```HTML
-<script src="unpkg.com/forms-dynamically@1.0.0/index.js"></script>
+<script src="https://unpkg.com/forms-dynamically@1.0.1/forms.js"></script>
 ```
 
 ## Usage
