@@ -1,6 +1,6 @@
 {
   "name": "forms-dynamically",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "description": "Converts html forms into JSON and back.",
   "main": "index.js",
   "scripts": {
