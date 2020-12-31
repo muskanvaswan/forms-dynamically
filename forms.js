@@ -136,7 +136,3 @@ function jsonToForm(formJSON, targetDivId) {
 	}
 	document.getElementById(targetDivId).append(form) //not overwritting previous data
 }
-
-
-// If you have any questions, ask them without any hesistation like you would ask when you will be
-// doing your internship. This is how you will learn and grow.
